@@ -1,7 +1,12 @@
-### Nos débuts
+# Nos débuts
+## Vu par Safiye
+
+### Ce que j'ai retenu :
+
 - il faut avoir l'esprit d'équipe
 - il ne faut pas hésiter à poser des questions
 - toujours avoir du café sous la main
+
 # Nos débuts
 ## Vu par Noah 
 
