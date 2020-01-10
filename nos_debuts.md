@@ -4,13 +4,6 @@
 
 * [Accueil](https://github.com/Qlfvr/exercice-markdown/blob/master/README.md)
 * [Syntaxe Markdown](https://github.com/Qlfvr/exercice-markdown/blob/master/syntaxe_markdown.md)
-  
-### Ce que Safiye retenu :
-
-- il faut avoir l'esprit d'équipe
-- il ne faut pas hésiter à poser des questions
-- toujours avoir du café sous la main
-- comment lier son ordi via une ssh key
 
 ### Jour 1 ###
 
@@ -26,6 +19,8 @@
 - Attribution des parrains/marraines.
 
 - Installation d'un éditeur de texte et configuration de git supervisée par parrain/marraine.
+  
+- il faut avoir l'esprit d'équipe.
 
 - Photo de groupe dans le hangar :
 
@@ -38,6 +33,7 @@
   
 ### Jour 2 ###
 
+- comment lier son ordi via une ssh key
 - apprentissage des principales commandes de GIT dont par exemple : 
 
 ```sh
@@ -49,10 +45,12 @@ $ git merge <branch-name>
 ```
 
 - parle à ton canard ! 
-- veille "Comment faire une bonne veille ?"  
+- veille "Comment faire une bonne veille ?
+- toujours avoir du café sous la main
 
 ### Jour 3 ###
 
+- il ne faut pas hésiter à poser des questions
 - veille Hamilton sur les soft-skills : 
     *compléter la liste des soft-skills*
 
