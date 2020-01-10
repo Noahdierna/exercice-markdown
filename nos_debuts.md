@@ -1,5 +1,4 @@
 # Nos débuts
-## Vu par Safiye
 
 ### Ce que j'ai retenu :
 
@@ -8,7 +7,6 @@
 - toujours avoir du café sous la main
 
 # Nos débuts
-## Vu par Noah 
 
 ### Ce que j'ai retenu : 
 
@@ -68,5 +66,5 @@ $ git merge <branch-name>
 
 ### Jour 4 ###
 
-À suivre
+À suivre ...
 
