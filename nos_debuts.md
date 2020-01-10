@@ -19,7 +19,7 @@
 - comment lier son ordi via une ssh key
 - c'est tout 
 
-"image" 
+![alt text](https://scontent.fbru3-1.fna.fbcdn.net/v/t1.0-9/81507834_1088763368138861_8324934250843340800_n.png?_nc_cat=105&_nc_ohc=Z4tTnTvR5m0AQnxx1pkIooXt63J5gQJ-apnUiEdqKtft_l6bJ9E5wWsIw&_nc_ht=scontent.fbru3-1.fna&oh=d7ba09d49ff37ce7592d2a8d0ba6a0c5&oe=5E9A0D9C "Photo du groupe")
 
 "gif" 
 
