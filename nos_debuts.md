@@ -61,3 +61,5 @@ $ git merge <branch-name>
 - veille Hamilton sur les soft-skills : 
     *compléter la liste des soft-skills*
 
+
+
