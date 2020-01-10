@@ -1,5 +1,10 @@
 # Nos débuts
 
+## Menu
+
+* [Accueil](https://github.com/Qlfvr/exercice-markdown/blob/master/README.md)
+* [Syntaxe Markdown](https://github.com/Qlfvr/exercice-markdown/blob/master/syntaxe_markdown.md)
+  
 ### Ce que j'ai retenu :
 
 - il faut avoir l'esprit d'équipe
